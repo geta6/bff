@@ -1,0 +1,17 @@
+# system
+.DS_Store
+*.sw*
+
+# env specific
+.env*
+
+# temporary
+/tmp
+
+# node.js
+node_modules
+npm-shrinkwrap.json
+npm-debug.log
+yarn-error.log
+package-lock.json
+isolate-*

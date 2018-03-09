@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 4000,
+  "HOST": "0.0.0.0",
+  "JWT_SECRET": "keyboardcat"
+}

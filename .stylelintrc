@@ -1,0 +1,5 @@
+extends:
+  - stylelint-config-standard
+  - ./node_modules/prettier-stylelint/config.js
+rules:
+  selector-list-comma-newline-after: never-multi-line

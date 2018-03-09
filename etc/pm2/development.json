@@ -1,0 +1,13 @@
+[
+  {
+    "name": "app",
+    "script": "tmp/build/server.js",
+    "instances": 2,
+    "pid_file": "tmp/build/tmp/pids/sketch.pid",
+    "out_file": "tmp/build/logs/sketch.stdout.log",
+    "error_file": "tmp/build/tmp/logs/sketch.stderr.log",
+    "merge_logs": true,
+    "cwd": "tmp/build",
+    "exec_mode": "cluster_mode"
+  }
+]
