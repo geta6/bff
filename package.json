@@ -70,7 +70,7 @@
     "compression": "1.7.2",
     "cookie-parser": "1.4.3",
     "domready": "1.0.8",
-    "express": "4.16.2",
+    "express": "4.17.3",
     "fbjs": "0.8.16",
     "fluxible": "1.4.0",
     "fluxible-addons-react": "0.2.14",
