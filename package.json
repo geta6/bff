@@ -92,7 +92,7 @@
     "serialize-javascript": "1.4.0",
     "serve-favicon": "2.4.5",
     "source-map-support": "0.5.3",
-    "ua-parser-js": "0.7.17"
+    "ua-parser-js": "0.7.33"
   },
   "devDependencies": {
     "ansi-colors": "1.1.0",
